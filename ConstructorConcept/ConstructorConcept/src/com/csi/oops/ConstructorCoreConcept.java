@@ -21,7 +21,7 @@ class Employee {
 public class ConstructorCoreConcept {
 	public static void main(String[] args) {
 		Employee e1 = new Employee();
-		Employee e2 = new Employee("PUNE", 634545656L,"BINU@CSI.COM");
+		Employee e2 = new Employee("PUNE", 634545656L,"POOJA@INSTA.COM");
 		e2.displayData();
 	}
 }
